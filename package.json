@@ -1,0 +1,11 @@
+{
+  "name": "mern-cloud-disk-4523999939031cf4fe6202680e7a26163cdd92e8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
